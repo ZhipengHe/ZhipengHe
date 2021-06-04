@@ -1,3 +1,5 @@
+Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Computer Science and Software Developing and training in Process Mining. Self-motivated and exceptionally reliable Honours student positioned to contribute strongly to Predictive Process Analytics and Deep Learning approaches.
+
 - 👋 Hi, I’m @ZhipengHe. You can call me "Zippo" in daily life.
 - 👀 I’m interested in Process Mining and AI technology.
 - 🌱 I’m currently stduying in QUT (Queensland University of Technology).
