@@ -17,7 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ZhipengHe
-          THEME: default
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
