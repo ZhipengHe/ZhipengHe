@@ -1,7 +1,8 @@
 ### G'day, I'm Zhipeng He (何志鹏) 👋
 
-PhD Candidate at [Queensland University of Technology](https://www.qut.edu.au/) (QUT), Brisbane, Australia.
-My research focuses on **adversarial robustness of machine learning on tabular data**, with broader interests in explainable AI and process analytics.
+Postdoctoral Fellow at [Queensland University of Technology](https://www.qut.edu.au/) (QUT), Brisbane, Australia.
+I build **AI agent systems**: LLM agents that connect data, tools and people.
+My research covers **adversarial robustness** and **decentralised learning**.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oXqD4tMAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8241-8499)
